@@ -1,0 +1,11 @@
+Для бд
+pg_ctl start -D "C:\Program Files\PostgreSQL\16\data"
+Для клиента
+npm start --prefix client
+Для сервера
+npm start --prefix server
+
+
+Логин пароль админ
+adm@m.ru
+admin1234r
